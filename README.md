@@ -7,6 +7,7 @@ Entrega individual — Proyecto final de Análisis y Ciencia de Datos, UNIS. Aut
 - `tmdb_api.py`: clase `TMDBAPIUtils`; guarda cada respuesta en `cache/`.
 - `cache/`: JSON del API. Con esto el notebook corre completo sin API key.
 - `figuras/grafo_fishburne.png`: el grafo.
+- `presentacion/`: diapositivas (`presentacion.pdf`, fuente `.pptx`), con las fórmulas en `presentacion/formulas/`.
 
 Parámetros: semilla Laurence Fishburne, `limit = 5`, películas del 1975-01-01 al 2025-12-31, sin documentales ni
 papeles de sí mismo.
